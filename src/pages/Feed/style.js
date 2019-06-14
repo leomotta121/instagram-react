@@ -32,6 +32,12 @@ export const PostSection = styled.section`
           height: 20px;
           margin-right: 10px;
         }
+
+        button {
+          background: transparent;
+          border: 0;
+          cursor: pointer;
+        }
       }
 
       p {
